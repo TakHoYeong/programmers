@@ -1,5 +1,7 @@
 package day1;
+/* 대소문자 바꿔서 출력하기 */
 
+//입력 받은 문자열을 대문자는 소문자로 소문자는 대문자로 바꿔서 출력
 import java.util.Scanner;
 
 public class Main4 {
