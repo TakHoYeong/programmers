@@ -2,7 +2,7 @@ package day6;
 
 import java.util.Arrays;
 
-/* 수력와 구간 쿼리 2 */
+/* 수열과 구간 쿼리 2 */
 public class Main5 {
     public int[] solution(int[] arr, int[][] queries) {
         int[] answer = new int[queries.length];
