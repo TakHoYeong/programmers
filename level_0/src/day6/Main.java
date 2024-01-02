@@ -1,5 +1,6 @@
 package day6;
 
+/* 마지막 두 원소 */
 public class Main {
     public int[] solution(int[] num_list) {
         int[] answer = new int[num_list.length + 1];
