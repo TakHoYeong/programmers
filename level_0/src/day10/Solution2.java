@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/* 접미사 배열 */
 public class Solution2 {
     public String[] solution(String my_string) {
         List<String> answer = new ArrayList<>();
